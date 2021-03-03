@@ -13,6 +13,12 @@
   width: 34px;
 }
 
+.square-light{
+  background-color: lightgreen;
+}
+.square-dark{
+  background-color:limegreen;
+}
 .square:focus {
   outline: none;
 }
